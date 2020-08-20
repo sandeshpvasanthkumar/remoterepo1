@@ -1,3 +1,1 @@
-This is the first gitfile in Ubuntu.
-Second line in file1.
-Third line added.
+This line is added in file1 at b1 branch
