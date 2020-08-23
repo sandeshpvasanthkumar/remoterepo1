@@ -1,1 +1,6 @@
+ HEAD
 i am from local to remote
+=======
+f3 created in remote repo
+added line in f3 in rr
+>>>>>>> 71f1becaae96020b98372fcc742ef8ccc730c653
